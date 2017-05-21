@@ -1,2 +1,2 @@
 # hello-world
-a hello world repo
+a hello world repo for beginner
